@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Community Assets/uEventDispatcher/Examples/Scripts/Editor/com/rmc/projects/uEventDispatcher/SampleObservedComponent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Community Assets/uEventDispatcher/Documentation/read_me.txt">
     <Files>
-      <File FileName="Assets/Community Assets/uEventDispatcher/Examples/Scripts/Editor/com/rmc/projects/uEventDispatcher/SampleObserverComponent.cs" Line="50" Column="38" />
-      <File FileName="Assets/Community Assets/uEventDispatcher/Examples/Scripts/Editor/com/rmc/projects/uEventDispatcher/SampleObservedComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Community Assets/uEventDispatcher/Examples/Scripts/Runtime/com/rmc/projects/event_dispatcher/SampleObservedComponent.cs" Line="107" Column="5" />
+      <File FileName="Assets/Community Assets/uEventDispatcher/Examples/Scripts/Runtime/com/rmc/projects/event_dispatcher/SampleObserverComponent.cs" Line="160" Column="76" />
+      <File FileName="Assets/Community Assets/uEventDispatcher/Documentation/read_me.txt" Line="9" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

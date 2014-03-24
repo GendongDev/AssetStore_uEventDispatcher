@@ -46,13 +46,15 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Examples\Scripts\Runtime\com\rmc\projects\uEventDispatcher\SampleObservedComponent.cs" />
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Examples\Scripts\Runtime\com\rmc\projects\uEventDispatcher\SampleObserverComponent.cs" />
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\uEventDispatcher\Event.cs" />
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\uEventDispatcher\EventDispatcher.cs" />
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\uEventDispatcher\EventListenerData.cs" />
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\uEventDispatcher\IEvent.cs" />
-     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\uEventDispatcher\IEventDispatcher.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Examples\Scripts\Runtime\com\rmc\projects\event_dispatcher_example\SampleEvent.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Examples\Scripts\Runtime\com\rmc\projects\event_dispatcher_example\SampleObservedComponent.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Examples\Scripts\Runtime\com\rmc\projects\event_dispatcher_example\SampleObserverComponent.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\event_dispatcher\Event.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\event_dispatcher\EventDispatcher.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\event_dispatcher\EventListenerData.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\event_dispatcher\IEvent.cs" />
+     <Compile Include="Assets\Community Assets\uEventDispatcher\Library\Scripts\Runtime\com\rmc\projects\event_dispatcher\IEventDispatcher.cs" />
+     <None Include="Assets\Community Assets\uEventDispatcher\Documentation\read_me.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -38,3 +38,9 @@ ExportedObj/
 ehthumbs.db
 Thumbs.db
 *~
+
+
+# ============ #
+# Developer generated #
+# ============ #
+Bin/
